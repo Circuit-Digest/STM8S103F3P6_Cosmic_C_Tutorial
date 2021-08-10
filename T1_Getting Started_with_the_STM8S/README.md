@@ -1,1 +1,5 @@
 # Getting Started with STM8S using STVD and Cosmic C Compiler
+
+
+
+The STM8 is a series of 8-bit Microcontrollers from STMicroelectronics that has become a common choice of Microcontroller for cost-sensitive product development. I have previously work with AVR, PIC, and a few other ARM Cortex Microcontrollers, but surely in some applications, they become overkill and increase the BOM cost considerably. Recently, after tearing down a few cheap Chinese products, I found that most of them had an STM8 microcontroller inside it. The IC is not only cheap but also packed it with lots of features and options making it suitable to be used in many different applications. For instance, the STM8S series of controllers (which we will learn in this tutorial series) is a general-purpose controller but there are other series like the STM8A for Automotive Designs and STM8L for Low Power battery-powered designs which extends the application of these controllers.
