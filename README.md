@@ -7,6 +7,8 @@ Hello everyone, this repository is containing the resource files of our STM8S103
 
 [Note: Every tutorial folder has two subfolders (named as inc and src respectively) along with the readme file and some C files. You need to copy every project folders individually when you will use the ST Visual Developer IDE. For more details on How to setup the project workspace in STVD Ide, You can refer the Tutorial 1 below.]
 
+<img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/T1_Getting%20Started%20with%20STM8S.jpg" width="" alt="alt_text" title="image_tooltip">
+
 **The STM8S103F3P6 COSMIC C TUTORIALS Series by Circuit Digest**
     
    ✅Tutorial 1:[Getting Started with STM8S using STVD and Cosmic C Compiler](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T1_Getting%20Started_with_the_STM8S)
