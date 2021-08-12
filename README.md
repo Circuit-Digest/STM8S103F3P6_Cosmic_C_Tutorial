@@ -1,6 +1,6 @@
 # STM8S103F3P6 COSMIC C TUTORIALS
 
-<img src="IMAGES/Getting Started with STM8S.jpg" width="" alt="alt_text" title="image_tooltip">
+<img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/T1_Getting%20Started%20with%20STM8S.jpg" width="" alt="alt_text" title="image_tooltip">
 
 Hello everyone, this repository is containing the resource files of our STM8S103F3P6 COSMIC C TUTORIAL Series. If you are interested to get more details on the STM8S then You can visit the following links.
 
