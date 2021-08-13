@@ -1,0 +1,7 @@
+# Serial UART Communication on STM8 using Cosmic C and STVD - Print / Read Characters and Strings
+
+<img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/T2_Blinking_and_Controlling_LED_with_Push_Button_using_STM8S_Cosmic_C.jpg" alt="image1" title="image1">
+
+For microcontrollers, an LED blinking program is equivalent to the “hello world” program. In our [Tutorial 1](https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler), we learned how to get started with STM8S103F3 Development Board and how to set up the IDE and compiler to program our STM8S controllers. We have also learned how to use the standard peripheral libraries, and how to compile and upload the code into our microcontroller. With all the basics covered, lets actually start writing code. In this tutorial, we will learn how to perform general GPIO functions on STM8S controllers. The board already has an onboard LED connected to pin 5 of port B, we will learn how to blink this LED and also add an external LED and control it with a push-button. If you are completely new, it is highly recommended to read the [Tutorial 1](https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler) before you proceed any further.
+
+For more details you can visit our tutorial on [Serial UART Communication on STM8 using Cosmic C and STVD - Print / Read Characters and Strings](https://circuitdigest.com/microcontroller-projects/serial-monitor-on-stm8s-using-cosmic-and-stvd)
