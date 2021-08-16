@@ -1,4 +1,4 @@
-# GPIO Functions on STM8S using Cosmic C and SPL – Blinking and Controlling LED with Push Button
+# [GPIO Functions on STM8S using Cosmic C and SPL – Blinking and Controlling LED with Push Button](https://circuitdigest.com/microcontroller-projects/gpio-functions-on-stm8s-using-cosmic-c-and-spl-blinking-led-with-push-button)
 
 <img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/T2_Blinking_and_Controlling_LED_with_Push_Button_using_STM8S_Cosmic_C.jpg" alt="image1" title="image1">
 
