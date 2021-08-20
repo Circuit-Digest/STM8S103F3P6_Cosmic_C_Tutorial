@@ -25,6 +25,8 @@ Hello everyone, this repository is containing the resource files of our STM8S103
    <br>
    ✅Tutorial 4:[Interfacing 16x2 Alphanumeric LCD display with STM8 Microcontroller](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T4_Interfacing_16x2_Alphanumeric_LCD_display_with_STM8_Microcontroller)
    <br>
+   ✅Tutorial 5:[ADC on STM8S using Cosmic C Compiler – Reading Multiple ADC Values and Displaying on LCD](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T5_ADC_on_STM8S_using_Cosmic_C_Compiler)
+   <br>
 
 
 
