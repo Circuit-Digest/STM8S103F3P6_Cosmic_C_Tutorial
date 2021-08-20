@@ -20,20 +20,24 @@ If you are new to STM8, do check out the [Getting Started with STM8S using STVD 
 
 **STM8S PWM Generator Circuit: Hardware Setup and Requirement**
 
+<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/STM8S-PWM-Generator-Circuit.jpg" alt="image3" title="image3">
 
-<img src="https://circuitdigest.com/sites/default/files/circuitdiagram_mic/STM8S-Microcontroller-LED-Dimmer.png" alt="image3" title="image3">
 
+<br>
 <br>
 
 **PWM Pins on ST Micro STM8S Microcontroller**
+<br>
+<br>
+<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/ST-Micro-STM8S-Microcontroller.jpg" alt="image3" title="image3">
 
-
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/STM8S-PWM-Generator-Circuit.jpg" alt="image3" title="image3">
-
+<br>
+<br>
 
 **Circuit Diagram for STM8S Microcontroller Based LED Dimmer**
 
 To program the circuit, we have connected an ST-Link V2 programmer to the 3.3V, SWIM, and the Ground pin of the STM8S development board. The most interesting thing about an STM8 microcontroller is that it only requires one pin that is the SWIM pin to program the microcontroller.As you can see in the schematic below, a test LED is attached to the development board and it's connected to port 1.4 on the extreme left of the board
-
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/ST-Micro-STM8S-Microcontroller.jpg" alt="image3" title="image3">
+<br>
+<br>
+<img src="https://circuitdigest.com/sites/default/files/circuitdiagram_mic/STM8S-Microcontroller-LED-Dimmer.png" alt="image3" title="image3">
 
