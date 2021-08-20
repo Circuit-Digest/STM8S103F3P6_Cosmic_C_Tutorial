@@ -33,7 +33,8 @@ Hello everyone, this repository is containing the resource files of our STM8S103
    <br>
    ✅Tutorial 6:[Pulse width Modulation (PWM) with STM8 using Cosmic C and STVD: Controlling Brightness of LED](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T6_Pulse_width_Modulation_with_STM8_using_Cosmic_C_and_STVD)
    <br>
-
+    ✅Tutorial 7:[I2C Communication on STM8S using Cosmic C Compiler – Reading MLX90614 Sensor Temperature Values](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T7_I2C_Communication_on_STM8S_using_Cosmic_C_Compiler)
+   <br>
 
 
    
