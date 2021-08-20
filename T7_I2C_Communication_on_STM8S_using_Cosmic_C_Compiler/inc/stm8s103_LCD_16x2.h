@@ -21,7 +21,7 @@
  void Lcd_Clear(void);
  void Lcd_Set_Cursor(char a, char b);
  void Lcd_Print_String(char *a);
-
+ void LCD_Print_Var(int var);
 
  
 void delay_ms (int ms) //Function Definition 
@@ -71,6 +71,8 @@ void Lcd_Cmd(char a)
  
  void Lcd_Begin(void)
  {
+	 GPIO_DeInit(GPIOA);
+	 GPIO_DeInit(GPIOD);
 	 //Initialize all GPIO pins as Output 
 	 GPIO_Init(LCD_RS, GPIO_MODE_OUT_PP_HIGH_FAST);
 	 GPIO_Init(LCD_EN, GPIO_MODE_OUT_PP_HIGH_FAST);
@@ -150,10 +152,21 @@ void Lcd_Set_Cursor(char a, char b)
 }
 
 
-
 void Lcd_Print_String(char *a)
 {
     int i;
     for(i=0;a[i]!='\0';i++)
        Lcd_Print_Char(a[i]);  //Split the string using pointers and call the Char function 
+}
+void LCD_Print_Int(int var)
+{
+char d4,d3,d2,d1;
+d4 = var%10 + '0';
+d3 = (var/10)%10 + '0';
+d2 = (var/100)%10 + '0';
+d1 = (var/1000) + '0';
+Lcd_Print_Char(d1);
+Lcd_Print_Char(d2);
+Lcd_Print_Char(d3);
+Lcd_Print_Char(d4);
 }
