@@ -27,6 +27,8 @@ Hello everyone, this repository is containing the resource files of our STM8S103
    <br>
    ✅Tutorial 5:[ADC on STM8S using Cosmic C Compiler – Reading Multiple ADC Values and Displaying on LCD](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T5_ADC_on_STM8S_using_Cosmic_C_Compiler)
    <br>
+   ✅Tutorial 6:[Pulse width Modulation (PWM) with STM8 using Cosmic C and STVD: Controlling Brightness of LED](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T6_Pulse_width_Modulation_with_STM8_using_Cosmic_C_and_STVD)
+   <br>
 
 
 
