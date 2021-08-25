@@ -15,36 +15,5 @@ If you are new to STM8, do check out the [Getting Started with STM8S using STVD 
 
 <br>
 
-**Hardware Setup to Interface MLX90614 and LCD with STM8S for I2C**
-<br>
-<br>
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/I2C-on-STM8S-Board.jpg" alt="image3" title="image3">
-
-<br>
-
-**Circuit Diagram to Interface MLX90614 and LCD with STM8S**
-<br>
-<br>
-The following schematic illustrates the connections diagram of the MLX90614 sensor and the LCD with the STM8S. This schematic is very similar to the STM8S LCD tutorial that we have discussed previously. I have just wired the SDA and SCL pins of the sensor with the SDA (PB5) and SCL(PB4) pin of the STM8S103F3P6 board and I have provided a 5V power supply to both the sensor and the LCD. Please note carefully that we need to power the STM8S103F3P6 board with a USB connector so that the board gives a proper 5V power supply to both the sensor and the LCD.
-<br>
-<img src="https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Interface-MLX90614-and-LCD-with-STM8S.jpg" alt="image3" title="image3">
-
-<br>
-
-**Connecting Logic Analyzer with STM8S to Monitor I2C Communication**
-<br>
-<br>
-A logic analyzer is an electronic instrument that captures and displays multiple signals from a digital system or digital circuit. We are going to use the USB logic analyzer to analyze the I2C data. The connection of an USB logic analyzer is very simple. You can refer the following block diagram to connect an USB logic analyzer with any I2C devices to see the I2C data of that device.
-<br>
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/Connecting-Logic-Analyzer-with-STM8S.png" alt="image3" title="image3">
-
-<br>
-
-**Monitoring the I2C Communication On the Logic Analyzer**
-<br> 
-<br>
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/I2C-on-STM8S.png" alt="image3" title="image3">
-
-<br>
 
 
