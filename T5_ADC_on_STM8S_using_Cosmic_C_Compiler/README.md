@@ -14,24 +14,3 @@ In this tutorial, we will learn how to use the ADC feature on our STM8S103F3P6 M
 If you are new to STM8, do check out the [Getting Started with STM8S using STVD and Cosmic C Compiler](https://circuitdigest.com/microcontroller-projects/getting-started-with-stm8s-using-stvd-and-cosmic-c-compiler) article to understand the basics of the controller board and programming environment. We will not be covering the basics in this tutorial.
 
 
-<br>
-
-**ADC pins on STM8S103F3P6 Microcontroller**
-
-
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u3/ADC-on-STM8S103F3P6.png" alt="image3" title="image3">
-
-<br>
-
-**ADC characteristics for STM8S103P36**
-
-
-<img src="https://circuitdigest.com/sites/default/files/inlineimages/u2/ADC-Characteristics.png" alt="image3" title="image3">
-
-
-**Circuit Diagram to Perform ADC with STM8 Microcontroller**
-
-The complete circuit diagram used in this project is given below, it is very similar to the STM8S LCD tutorial that we discussed previously.
-
-<img src="https://circuitdigest.com/sites/default/files/circuitdiagram_mic/ADC-on-STM8S-Microcontroller-Circuit.png" alt="image3" title="image3">
-
