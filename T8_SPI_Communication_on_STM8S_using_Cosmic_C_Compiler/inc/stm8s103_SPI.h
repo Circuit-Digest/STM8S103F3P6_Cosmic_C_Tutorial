@@ -5,14 +5,8 @@ Header Name: stm8s103_SPI.h
 
 #include "STM8S.h"
 
-#define CS_pin  GPIO_PIN_4
-#define CS_port GPIOC
-
-
-void SPI_setup(void);
-void SPI_init(void);
-void SPI_write(unsigned char slave_address, unsigned char value);
-
+#define ChipSelect_pin  GPIO_PIN_4
+#define ChipSelect_port GPIOC
 
 
 
@@ -39,7 +33,7 @@ Description: It can be used to Initiate the SPI communication.
 type: void.
 */
 
-void SPI_init(void)
+void SPI_setup(void)
 {
      SPI_DeInit();
      SPI_Init(SPI_FIRSTBIT_MSB, 
@@ -66,7 +60,7 @@ type: void.
 void SPI_write(unsigned char slave_address, unsigned char value)
 {
     while(SPI_GetFlagStatus(SPI_FLAG_BSY));
-    GPIO_WriteLow(CS_port, CS_pin);
+    GPIO_WriteLow(ChipSelect_port, ChipSelect_pin);
                 
     SPI_SendData(slave_address);
     while(!SPI_GetFlagStatus(SPI_FLAG_TXE));
@@ -74,7 +68,7 @@ void SPI_write(unsigned char slave_address, unsigned char value)
     SPI_SendData(value);
     while(!SPI_GetFlagStatus(SPI_FLAG_TXE));
                 
-    GPIO_WriteHigh(CS_port, CS_pin);
+    GPIO_WriteHigh(ChipSelect_port, ChipSelect_pin);
 }
 
 

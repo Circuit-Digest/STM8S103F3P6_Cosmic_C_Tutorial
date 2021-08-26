@@ -13,19 +13,20 @@ const char input_string2[] = "CIRCUITDIGEST";
                 
     clock_setup();
     GPIO_setup();
-		SPI_init();
+		SPI_setup();
     MAX7219_init();
 		display_clear(); //Clearing the display
 		delay_ms(1000);
-		display_char(char_C); // Displaying A character
+		display_char(0); // Displaying the alphabet "A"
+		delay_ms(4000);
     while(TRUE)
     {	
 
-		/*
+		
 		display_clear(); //Clearing the Display
 		display_string(input_string2);  //Displaying a String
-		delay_ms(1000); 
-		*/
+		delay_ms(2000); 
+		
     };
 }
  
