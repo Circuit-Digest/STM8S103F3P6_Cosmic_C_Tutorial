@@ -2,11 +2,12 @@
 
 <img src="https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/blob/master/IMAGES/T1_Getting%20Started%20with%20STM8S.jpg" width="" alt="alt_text" title="image_tooltip">
 <br>
+
 <br>
 <a href="https://circuitdigest.com/tags/stm8"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=STM8S103F3P6 COSMIC C TUTORIALS CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
-[Click here](https://circuitdigest.com/tags/stm8) for the complete tutorial.
+[<h1>Click here](https://circuitdigest.com/tags/stm8)</h1>
 
 <br>
 <br>
