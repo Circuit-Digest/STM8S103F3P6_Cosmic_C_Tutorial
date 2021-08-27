@@ -7,7 +7,7 @@
 <a href="https://circuitdigest.com/tags/stm8"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=STM8S103F3P6 COSMIC C TUTORIALS CIRCUIT DIGEST&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <br>
 
-[<h1>Click here](https://circuitdigest.com/tags/stm8)</h1>
+[<h1>Click here](https://circuitdigest.com/tags/stm8) for the complete tutorials.</h1>
 
 <br>
 <br>
