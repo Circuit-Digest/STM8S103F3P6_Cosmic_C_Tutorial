@@ -45,7 +45,6 @@ Hello everyone, this repository is containing the resource files of our STM8S103
    <br>
     ✅Tutorial 7:[I2C Communication on STM8S using Cosmic C Compiler – Reading MLX90614 Sensor Temperature Values](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T7_I2C_Communication_on_STM8S_using_Cosmic_C_Compiler)
    <br>
-   <br>
     ✅Tutorial 8:[SPI on STM8S Using Cosmic C Compiler – Interface the MAX7219 module with STM8S](https://github.com/Circuit-Digest/STM8S103F3P6_Cosmic_C_Tutorial/tree/master/T8_SPI_Communication_on_STM8S_using_Cosmic_C_Compiler)
    <br>  
 
